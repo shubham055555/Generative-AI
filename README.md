@@ -6,4 +6,6 @@ Hugging Face --> the largest repo of open source LLMs --->  https://huggingface.
 
 Langchain_models ---->https://github.com/shubham055555/langchain-models.git  ,
 
-Generate Free API Key ----> https://openrouter.ai/
+Generate Free API Key ----> https://openrouter.ai/  ,
+
+langchain prompts --> https://github.com/shubham055555/langchain-prompts-main.git
