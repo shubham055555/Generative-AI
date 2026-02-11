@@ -10,4 +10,6 @@ Generate Free API Key ----> https://openrouter.ai/  ,
 
 langchain prompts --> https://github.com/shubham055555/langchain-prompts-main.git ,
 
-LangChain Chatbot using OpenRouter --- > https://github.com/shubham055555/langchain-chatbot-memory.git
+LangChain Chatbot using OpenRouter --- > https://github.com/shubham055555/langchain-chatbot-memory.git ,
+
+GenAI-Projects-main --> https://github.com/shubham055555/GenAI-Projects-main.git
