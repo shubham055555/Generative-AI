@@ -12,4 +12,6 @@ langchain prompts --> https://github.com/shubham055555/langchain-prompts-main.gi
 
 LangChain Chatbot using OpenRouter --- > https://github.com/shubham055555/langchain-chatbot-memory.git ,
 
-GenAI-Projects-main --> https://github.com/shubham055555/GenAI-Projects-main.git
+GenAI-Projects-main --> https://github.com/shubham055555/GenAI-Projects-main.git ,
+
+langchain-structured-output-main ---> https://github.com/shubham055555/langchain-structured-output-main.git
