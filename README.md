@@ -14,4 +14,6 @@ LangChain Chatbot using OpenRouter --- > https://github.com/shubham055555/langch
 
 GenAI-Projects-main --> https://github.com/shubham055555/GenAI-Projects-main.git ,
 
-langchain-structured-output-main ---> https://github.com/shubham055555/langchain-structured-output-main.git
+langchain-structured-output-main ---> https://github.com/shubham055555/langchain-structured-output-main.git ,
+
+langchain-output-parsers-main --> https://github.com/shubham055555/langchain-output-parsers-main.git
