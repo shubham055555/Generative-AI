@@ -16,4 +16,6 @@ GenAI-Projects-main --> https://github.com/shubham055555/GenAI-Projects-main.git
 
 langchain-structured-output-main ---> https://github.com/shubham055555/langchain-structured-output-main.git ,
 
-langchain-output-parsers-main --> https://github.com/shubham055555/langchain-output-parsers-main.git
+langchain-output-parsers-main --> https://github.com/shubham055555/langchain-output-parsers-main.git , 
+
+Chains_langchain ---> https://github.com/shubham055555/Chains-_-Langchain.git
