@@ -20,4 +20,6 @@ langchain-structured-output-main ---> https://github.com/shubham055555/langchain
 
 langchain-output-parsers-main --> https://github.com/shubham055555/langchain-output-parsers-main.git , 
 
-Chains_langchain ---> https://github.com/shubham055555/Chains-_-Langchain.git
+Chains_langchain ---> https://github.com/shubham055555/Chains-_-Langchain.git ,
+
+Langchain_Runnables --->  https://github.com/shubham055555/Langchain_Runnables-.git
