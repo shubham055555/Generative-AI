@@ -1,5 +1,5 @@
 # Generative-AI
-Youtube --- CampusX ,
+Youtube --- CampusX ---> https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=WvxWqg30eqaHFQON  ,
 
 Building an AI Agent ---> GOAL
 https://docs.langchain.com/oss/python/langchain/agents  ,
