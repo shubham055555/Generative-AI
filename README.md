@@ -24,4 +24,6 @@ Chains_langchain ---> https://github.com/shubham055555/Chains-_-Langchain.git ,
 
 Langchain_Runnables --->  https://github.com/shubham055555/Langchain_Runnables-.git ,
 
-Langchain Documents Loaders ---> https://docs.langchain.com/oss/python/integrations/document_loaders
+Langchain Documents Loaders ---> https://docs.langchain.com/oss/python/integrations/document_loaders ,
+
+Document Loaders Code ---> https://github.com/shubham055555/Langchain_Document_Loaders.git
