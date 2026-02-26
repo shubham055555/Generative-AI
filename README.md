@@ -22,4 +22,6 @@ langchain-output-parsers-main --> https://github.com/shubham055555/langchain-out
 
 Chains_langchain ---> https://github.com/shubham055555/Chains-_-Langchain.git ,
 
-Langchain_Runnables --->  https://github.com/shubham055555/Langchain_Runnables-.git
+Langchain_Runnables --->  https://github.com/shubham055555/Langchain_Runnables-.git ,
+
+Langchain Documents Loaders ---> https://docs.langchain.com/oss/python/integrations/document_loaders
