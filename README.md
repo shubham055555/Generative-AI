@@ -30,5 +30,9 @@ Document Loaders Code ---> https://github.com/shubham055555/Langchain_Document_L
 
 Use this Amazing Text Splitter To learn concept ---> https://chunkviz.up.railway.app/  ,
 
-Text_Splitters_LangChain- CODE ---> https://github.com/shubham055555/Text_Splitters_LangChain-.git
+Text_Splitters_LangChain- CODE ---> https://github.com/shubham055555/Text_Splitters_LangChain-.git ,
+
+Vector_Store_in_Langchain ----> https://github.com/shubham055555/Vector_Store_in_Langchain.git
+
+ 
 
