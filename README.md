@@ -32,7 +32,10 @@ Use this Amazing Text Splitter To learn concept ---> https://chunkviz.up.railway
 
 Text_Splitters_LangChain- CODE ---> https://github.com/shubham055555/Text_Splitters_LangChain-.git ,
 
-Vector_Store_in_Langchain ----> https://github.com/shubham055555/Vector_Store_in_Langchain.git
+Vector_Store_in_Langchain ----> https://github.com/shubham055555/Vector_Store_in_Langchain.git ,
+
+langchain_Retriever ----> https://docs.langchain.com/oss/python/integrations/providers/overview
+Repo             ----->   https://github.com/shubham055555/langchain_Retrievers.git                          
 
  
 
