@@ -36,7 +36,9 @@ Vector_Store_in_Langchain ----> https://github.com/shubham055555/Vector_Store_in
 
 langchain_Retriever ----> https://docs.langchain.com/oss/python/integrations/providers/overview ,
 
-Repo             ----->   https://github.com/shubham055555/langchain_Retrievers.git                          
+Repo             ----->   https://github.com/shubham055555/langchain_Retrievers.git , 
+
+Youtube_Chatbot RAG Based ----->  https://github.com/shubham055555/Youtube_Chatbot_Using_Langchain.git
 
  
 
