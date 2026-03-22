@@ -42,7 +42,11 @@ Youtube_Chatbot RAG Based ----->  https://github.com/shubham055555/Youtube_Chatb
 
 tools Documents in Langchain ---> https://docs.langchain.com/oss/python/integrations/tools  ,
 
-tools_IN_langchain ----> https://github.com/shubham055555/Tools_IN_Langchain.git
+tools_IN_langchain ----> https://github.com/shubham055555/Tools_IN_Langchain.git ,
+
+Tool_calling ----> https://github.com/shubham055555/Tool_Calling_In_Langchain.git ,
+
+
 
  
 
